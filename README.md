@@ -35,6 +35,26 @@ Estudando programação, construindo projetos e evoluindo um commit por vez.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+<p align="center">
+<a href="https://github.com/Pafunso" target="_blank">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
+</a>
+ 
+<a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+</a>
+ 
+<a href="mailto:SEU-EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
+</a>
+</p>
+
+### Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,js,html,css,react,vite,nodejs,git,github,linux,vscode,figma&perline=6&theme=dark" alt="Tech Stack" />
+</p>
+
+
 ### GitHub Stats
 
 <p align="center">
