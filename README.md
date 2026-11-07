@@ -37,4 +37,9 @@ Estudando programação, construindo projetos e evoluindo um commit por vez.
 
 
 
+<p align="center">
+  <img src="./assets/1794027951180.jpg" width="600" alt="Mão em direção a uma mulher digital com uma janela">
+</p>
+
+<div align="center">
 
