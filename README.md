@@ -35,13 +35,20 @@ Estudando programação, construindo projetos e evoluindo um commit por vez.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Pafunso&theme=dark&hide_border=true&background=0D1117&ring=E6EDF3&fire=E6EDF3&currStreakLabel=E6EDF3&sideLabels=8B949E&dates=8B949E&locale=pt_BR" alt="GitHub Streak" />
-</p>
+### GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pafunso&bg_color=0d1117&color=8b949e&line=e6edf3&point=ffffff&area=true&hide_border=true" width="100%" alt="Gráfico de Contribuições de Pafunso" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Pafunso&theme=dark&hide_border=true&background=0D1117&ring=E6EDF3&fire=E6EDF3&currStreakLabel=E6EDF3&sideLabels=8B949E&dates=8B949E&locale=pt_BR" alt="GitHub Streak" />
 </p>
+
+---
+
+### Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pafunso&theme=github-compact&bg_color=0d1117&color=e6edf3&line=8b949e&point=ffffff&area=true&hide_border=true" width="100%" alt="Gráfico de Contribuições de Pafunso" />
+</p>
+
 
 <p align="center">
   <img src="./assets/1794027951180.jpg" width="600" alt="Mão em direção a uma mulher digital com uma janela">
