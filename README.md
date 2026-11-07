@@ -40,11 +40,11 @@ Estudando programação, construindo projetos e evoluindo um commit por vez.
 <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
 </a>
  
-<a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/caetano-a-f-fonseca-4200a7306?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
 </a>
  
-<a href="mailto:SEU-EMAIL@gmail.com">
+<a href="mailto:caetanofonseca0@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
 </a>
 </p>
