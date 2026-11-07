@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="./assents/1794026320835.png" width="600" alt="Mão em direçãoa uma mulher digital com uma janela">
+  <img src="./assents/1794026320835.jng" width="600" alt="Mão em direçãoa uma mulher digital com uma janela">
 </p>
 <div align="center">
 
