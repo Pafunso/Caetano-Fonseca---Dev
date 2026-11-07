@@ -2,8 +2,8 @@ name: Generate Pac-Man Contribution Graph
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Atualiza a cada 12 horas automaticamente
-  workflow_dispatch:       # Permite rodar manualmente no botão "Run workflow"
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -22,10 +22,10 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_token: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
