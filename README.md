@@ -1,4 +1,8 @@
 
+
+<p align="center">
+  <img src="./assets/1794026320835.png" width="600" alt="Mão em direçãoa uma mulher digital com uma janela">
+</p>
 <div align="center">
 
 # Me chamo Caetano!
