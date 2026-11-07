@@ -36,3 +36,7 @@ Estudando programação, construindo projetos e evoluindo um commit por vez.
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pafunso/Pafunso/output/pacman-contribution-graph-dark.svg" alt="Pac-Man eating contributions" />
+</p>
+
