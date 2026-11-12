@@ -10,11 +10,10 @@
 
 </div>
 
-# Me chamo Caetano!
+### Hi, I'm Caetano!
+IT Student | Developer in Progress | Cybersecurity Focus
 
-### Software Engineering Student | Developer in Progress
-
-Estudando programação, construindo projetos e evoluindo um commit por vez.
+Studying programming, building projects and growing one commit at a time, now with a security mindset in everything I build.
 
 
 
@@ -27,6 +26,13 @@ Estudando programação, construindo projetos e evoluindo um commit por vez.
 - Estudando Engenharia de Software e programação.
 - Desenvolvendo projetos para praticar lógica e desenvolvimento.
 - Aprendendo a construir soluções reais com código.
+
+## Current focus: Cybersecurity
+- Web application security (OWASP Top 10: injection, XSS, broken authentication)
+- Secure login and password practices (bcrypt hashing, input validation, session control)
+- Networking and Linux fundamentals
+- Data protection (LGPD applied to healthcare systems)
+- Legal, authorized practice environments (TryHackMe, Hack The Box, PortSwigger Web Security Academy)
 
 ## Tecnologias
 
