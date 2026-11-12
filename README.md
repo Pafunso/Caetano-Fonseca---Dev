@@ -21,11 +21,10 @@ Studying programming, building projects and growing one commit at a time, now wi
 
 ---
 
-## Sobre mim
-
-- Estudando Engenharia de Software e programação.
-- Desenvolvendo projetos para praticar lógica e desenvolvimento.
-- Aprendendo a construir soluções reais com código.
+## About me
+- Studying Information Technology and programming.
+- Building projects to practice logic, back-end, front-end and UI/UX.
+- Learning to build real-world solutions that are secure by design.
 
 ## Current focus: Cybersecurity
 - Web application security (OWASP Top 10: injection, XSS, broken authentication)
